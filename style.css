@@ -89,9 +89,10 @@
     height: 495px;
     background: #c1d4e9;
 }
-.about_section li{
-    font-size: 14px;
-    list-style-type: none;
+.about_section li {
+	font-size: 15px;
+	list-style-type: none;
+	line-height: 2;
 }
 .about_section p{
     font-size: 14px;
