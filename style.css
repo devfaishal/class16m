@@ -92,7 +92,7 @@
 .about_section li {
 	font-size: 14px;
 	list-style-type: none;
-	line-height: 30px;
+	margin-bottom: 10px;
 }
 .about_section p{
     font-size: 14px;
